@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AND_KM6_NURULAISYAH_Ch2</string>
+    <string name="app_name">Food</string>
+    <string name="text_name">hello nurul aisyah !</string>
+    <string name="text_greeting">welcome this app ! what do you eat this today ?</string>
 </resources>
